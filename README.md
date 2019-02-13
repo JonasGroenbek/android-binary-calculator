@@ -5,7 +5,7 @@ A binary calculator app for android, that does binary calculations using binary 
 Stuff to do:
 
 * make subtraction work for negative input
-* refactor addition and multiplication to use two's complement
+* refactor addition and multiplication to using two's complement
 * make division
 * refactor layout (IOS calculator for reference)
 

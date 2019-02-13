@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <Button
+            android:text="@string/zero"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/zero"/>
+    <Button
+            android:text="@string/one"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content" android:layout_row="0" android:layout_column="1"
+            android:id="@+id/one"/>
+    <Button
+            android:text="@string/add"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content" android:layout_row="0" android:layout_column="2"
+            android:id="@+id/add"/>
+    <Button
+            android:text="@string/multiply"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content" android:layout_row="1" android:layout_column="0"
+            android:id="@+id/multiply"/>
+    <Button
+            android:text="@string/divide"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content" android:layout_row="1" android:layout_column="1"
+            android:id="@+id/divide"/>
+    <Button
+            android:text="@string/subtract"
+            android:layout_width="135dp"
+            android:layout_height="wrap_content" android:layout_row="1" android:layout_column="2"
+            android:id="@+id/subtract"/>
+</GridLayout>

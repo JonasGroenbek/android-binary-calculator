@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">binaryCalculator</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="enterButton">calculate!</string>
+    <string name="deleteButton">back</string>
+    <string name="input"></string>
+    <string name="output"></string>
+    <string name="base10">base10</string>
+</resources>

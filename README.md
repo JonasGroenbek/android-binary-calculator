@@ -11,11 +11,7 @@ Stuff to do:
 - [ ] refactor calculations to use two's complement
 - [x] Binary to base10 conversion
 - [ ] refactor layout (IOS calculator for reference)
-
-* make subtraction work for negative input
-* refactor addition and multiplication to using two's complement
-* make division
-* refactor layout (IOS calculator for reference)
+- [ ] onPause() and onResume() compatible
 
 Possible features:
 

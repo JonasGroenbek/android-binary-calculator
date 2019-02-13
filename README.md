@@ -11,7 +11,7 @@ Stuff to do:
 
 Possible features:
 
-* normal calculator to get base10 to binary?
+* base10 calculator with conversion to binary?
 * refactor input & output
 * implement a "binary arithmetic" layout, to demonstrate the basics of binary calculation
 

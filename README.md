@@ -13,7 +13,7 @@ Stuff to do:
 - [ ] refactor layout (IOS calculator for reference)
 - [ ] onPause() and onResume() compatible
 
-Possible features:
+# Possible features:
 
 * base10 calculator with conversion to binary
 * implement a "binary arithmetic" layout, to demonstrate the basics of binary calculation

@@ -2,7 +2,7 @@
 
 A binary calculator app for android, that does binary calculations using binary arithmetic.
 
-Stuff to do:
+# Stuff to do:
 - [x] Basic UI
 - [x] Addition
 - [x] Multiplication

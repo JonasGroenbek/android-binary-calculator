@@ -3,6 +3,14 @@
 A binary calculator app for android, that does binary calculations using binary arithmetic.
 
 Stuff to do:
+- [x] Basic UI
+- [x] Addition
+- [x] Multiplication
+- [x] Subtraction
+- [ ] Division
+- [ ] refactor calculations to use two's complement
+- [x] Binary to base10 conversion
+- [ ] refactor layout (IOS calculator for reference)
 
 * make subtraction work for negative input
 * refactor addition and multiplication to using two's complement

@@ -10,6 +10,7 @@ A binary calculator app for android, that does binary calculations using binary 
 - [ ] Division
 - [ ] refactor calculations to use two's complement
 - [x] Binary to base10 conversion
+- [ ] refactor to use anko DSL
 - [ ] refactor layout (IOS calculator for reference)
 - [ ] onPause() and onResume() compatible
 
